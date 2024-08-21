@@ -71,7 +71,6 @@ This section delves into various queries to uncover insights within the uk_food 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 
-
 #### Resources
 
 For the successful execution of this project, the following resources were utilized:
@@ -79,5 +78,5 @@ For the successful execution of this project, the following resources were utili
 - **Class Lectures, Notes, and Activities:** These provided foundational knowledge and practical skills necessary for undertaking the project tasks.
 - **Xpert Learning Assistant:** This tool was invaluable for troubleshooting code issues and offering explanations on why certain methods are more efficient than others.
 - **establishments.json:** This file served as the primary data source, containing detailed information about various establishments that was essential for our analyses.
+- **GitHub Documentation:** For guidance on writing and formatting on GitHub, refer to the [Basic Writing and Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) provided by GitHub.
 
-These resources collectively supported the project’s objectives, ensuring a thorough approach to data analysis and problem-solving.
